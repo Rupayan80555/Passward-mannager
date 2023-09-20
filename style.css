@@ -69,18 +69,18 @@ h1 , h2,h3{
     background-color: red;
     color: white;
     padding: 10px;
-    margin: 25px 0;
+    margin: 20px 0;
     font-weight: 800;
     border-radius: 50%;
-    
+    font-size: 5px;
     cursor: pointer;     
 
 }
 
 @media(max-width:600px){
-    /* *{
+     /* *{
         overflow-x: hidden;
-    } */
+    }  */
     nav{
         background-color: black;
         color: white;
@@ -134,7 +134,7 @@ h1 , h2,h3{
         padding: 2px 5px;
         word-wrap: inherit;
         overflow-wrap: break-word;
-        max-width: 80px;
+        max-width: 75px;
         
     }
     
